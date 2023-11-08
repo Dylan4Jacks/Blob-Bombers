@@ -1,4 +1,4 @@
-# Blob Kabooom
+# Blob Bombers
 A game built with the limitation:
 >  "3 Frame Animations"
 
